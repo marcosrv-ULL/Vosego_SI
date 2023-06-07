@@ -1,0 +1,7 @@
+(Tue Feb 8 2022 16:53:38) Vosego>
+Label: AAAA.jpg , Predicted: Corn_(maize)___Northern_Leaf_Blight
+(Tue Feb 8 2022 16:54:43) Vosego>
+Label: photo1644185168.JPG , Predicted: Tomato___Late_blight
+(Tue Feb 8 2022 16:57:24) Vosego>
+(Tue Feb 8 2022 16:57:43) Vosego>
+Label: photo1644185168.JPG , Predicted: Tomato___Late_blight

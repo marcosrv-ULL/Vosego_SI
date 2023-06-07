@@ -1,0 +1,6 @@
+(Wed Feb 9 2022 00:17:02) Vosego>
+Label: CornCommonRust2.JPG , Predicted: Corn_(maize)___Common_rust_
+(Wed Feb 9 2022 00:20:17) Vosego>
+Label: AppleScab2.JPG , Predicted: Apple___Apple_scab
+Label: PotatoEarlyBlight3.JPG , Predicted: Potato___Early_blight
+Label: PotatoHealthy2.JPG , Predicted: Potato___healthy

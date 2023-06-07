@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>barGrapDiaForm</class>
+ <widget class="QWidget" name="barGrapDiaForm">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>656</width>
+    <height>914</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QFrame" name="horizontalFrame">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>651</width>
+     <height>421</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_3"/>
+  </widget>
+  <widget class="QFrame" name="horizontalFrame_2">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>430</y>
+     <width>651</width>
+     <height>481</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_4"/>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

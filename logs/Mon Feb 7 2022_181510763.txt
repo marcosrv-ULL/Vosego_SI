@@ -1,0 +1,2 @@
+(Mon Feb 7 2022 18:14:40) Vosego>
+Label: AppleCedarRust4.JPG , Predicted: Apple___Cedar_apple_rust
